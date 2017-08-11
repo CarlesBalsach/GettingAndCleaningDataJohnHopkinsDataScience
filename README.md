@@ -1,13 +1,16 @@
 # GettingAndCleaningDataJohnHopkinsDataScience
+
 The repository for the project of the Getting and Cleaning Data course from John Hopkins University taken from Coursera
 
-The content includes the asnwer for the tasks from the following assignment
+The content includes the asnwer for the tasks from the assignment described below
 
 ## Table of Content
 
 * run_analysis.R - R script that performs the task asked by this asignment
 * CodeBook.md - Describes step by step how the script works and the variables in it
 * Readme.md - Explains the repository contents, as well as the Project Instructions
+
+# Asignment
 
 ## Instructions
 
